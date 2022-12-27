@@ -50,5 +50,5 @@ jobs:
           
       - uses: actions/upload-artifact@v2
         with:
-          name: Windows Build
+          name: Build FNF Windows
           path: export/release/windows/bin
